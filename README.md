@@ -1,2 +1,3 @@
-# python
-writing python programs here
+# python ..
+writing python programs here ..
+lets start the python programming ..
